@@ -131,7 +131,7 @@
         text-align: left;
         color: #1E0E62;
 }
-.btn {
+input[placeholder="Your email"] {
         font-family: 'DM Sans' ,sans-serif;
         font-size: 16px;
         font-weight: 500;
